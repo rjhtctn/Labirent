@@ -1,0 +1,20 @@
+# Build artifacts
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# User-specific files
+.vscode/
+.vs/
+*.suo
+*.user
+*.userprefs
+
+# Ignore compiled assets
+*.pdb
+*.exe
+*.dll
+
+# Ignore build results
+Build/
